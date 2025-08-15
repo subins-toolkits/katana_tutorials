@@ -200,10 +200,12 @@ Lesson 9 - Pixar-Universal Scene Description( USD)
 
 
 Support,
-Comments, suggestions, and bug reports are welcome.
-subing85@gmail.com
+
+	Comments, suggestions, and bug reports are welcome.
+	subing85@gmail.com
 
 
 Thanks,
-Subin Gopi
-https://subing85.github.io/
+
+	Subin Gopi
+	https://subing85.github.io/

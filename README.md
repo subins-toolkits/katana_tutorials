@@ -199,13 +199,12 @@ Lesson 9 - Pixar-Universal Scene Description( USD)
 	   https://vimeo.com/showcase/8153201/video/526089072
 
 
-Support,
+Support, Comments, suggestions, and bug reports are welcome.
 
-	Comments, suggestions, and bug reports are welcome.
-	subing85@gmail.com
+subing85@gmail.com
 
 
 Thanks,
 
-	Subin Gopi
-	https://subing85.github.io/
+Subin Gopi
+https://subing85.github.io/
